@@ -30,9 +30,6 @@ def lca(root, n1, n2):
 
 	return root
 
-# Driver program to test above function
-
-# Let us construct the BST shown in the figure
 root = Node(20)
 root.left = Node(8)
 root.right = Node(22)
@@ -53,4 +50,3 @@ n1 = 10 ; n2 = 22
 t = lca(root, n1, n2)
 print "LCA of %d and %d is %d" %(n1, n2, t.data)
 
-# This code is contributed by Nikhil Kumar Singh(nickzuck_007)
