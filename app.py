@@ -1,3 +1,7 @@
+# Copyright (c) 2025 sakib-maho
+# Licensed under the MIT License
+# See LICENSE file for details
+
 # A recursive python program to find LCA of two nodes
 # n1 and n2
 
